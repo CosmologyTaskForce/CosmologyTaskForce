@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://CosmologyTaskForce.github.com/CosmologyTaskforce
+url: http://cosmologytaskforce.github.com/CosmologyTaskForce/
 title: Cosmology Taskforce
 subtitle: A collection of cosmological surveys.
 author: Marvin
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /CosmologyTaskForce/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /CosmologyTaskForce
+root: /
 permalink: /blog/:categories/:title/
 source: source
-destination: public/CosmologyTaskForce
+destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -96,4 +96,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: true 
+facebook_like:true 
