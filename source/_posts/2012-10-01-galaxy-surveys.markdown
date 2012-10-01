@@ -118,7 +118,7 @@ A rendered result of 2dF Galaxy Survey data
   * Objects: limits $16.0<b_J<18.25$ {136,304 spectra}.
   * Distance: 
   * Area: Nearly the entire southern sky
-  ![Area](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/6dFGRS_animsky3.gif)
+  ![Area](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/6dFRS_animsky3.gif)
   * Resolution:
   * Examinations: Spectra and (in peculiar velocity survey) galaxy mass and bulk motions
 
