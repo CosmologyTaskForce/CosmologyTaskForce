@@ -20,106 +20,326 @@ Galaxy surveys is a powerful way of exploring the large scale structure of the u
 
 **CfA Redshift Survey**, [the Center for Astrophysics Redshift Survey](http://www.cfa.harvard.edu/~dfabricant/huchra/zcat), is the first redshift survey.
 
-* **Objectives**: Measure radial velocities for all galaxies brighter than 14.5 and high galactic latitude in the merged catalogs of Zwicky and Nilson (UGC). | **Completed**
+* **Objectives**:
+ 
+Measure radial velocities for all galaxies brighter than 14.5 and high galactic latitude in the merged catalogs of Zwicky and Nilson (UGC). {**Completed**}
 
-* **Parameters**: 
+
+* **Parameters**:
   * Facilities: 
   * Frequency/Channel:
-  * Objects: Galaxies | about 18,000 measured.
+  * Objects: Galaxies {about 18,000 measured}
   * Distance: Within redshift 15,000 km/s
   * Area: Northern sky
   * Resolution:
 
-**Results**
+
+
+* **Results**
+
 Distribution of the galaxies in the northern celestial hemisphere with an apparent blue magnitude of 15.5 inside redshift 15,000 km/s,
 
 ![CfA Redshift Survey Data](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/CfA_cfa2.map.jpg)
 
-In this map,
-
-* Red V < 3000 km/s
-* Blue 3000 < V < 6000 km/s
-* Magenta 6000 < V < 9000 km/s
-* Cyan 9000 < V < 12000 km/s
-* Green 12000 < V km/s
-
-**Links**: 
-1. CfA Redshift Survey: [http://www.cfa.harvard.edu/~dfabricant/huchra/zcat](http://www.cfa.harvard.edu/~dfabricant/huchra/zcat)
-2. CfA: [http://www.cfa.harvard.edu](http://www.cfa.harvard.edu)
+In this map, Red V < 3000 km/s; Blue 3000 < V < 6000 km/s; Magenta 6000 < V < 9000 km/s; Cyan 9000 < V < 12000 km/s; Green 12000 < V km/s.
 
 
-## 2dF Galaxy Redshift
+* **Links**: 
+  1. CfA Redshift Survey: [http://www.cfa.harvard.edu/~dfabricant/huchra/zcat](http://www.cfa.harvard.edu/~dfabricant/huchra/zcat)
+  2. CfA: [http://www.cfa.harvard.edu](http://www.cfa.harvard.edu)
 
-[Wikipedia](http://en.wikipedia.org/wiki/2dF_Galaxy_Redshift_Survey); [offical site](http://www2.aao.gov.au/2dFGRS)
 
-**2dFGRS**, spectroscopic survey, is integrated with the 2dF QSO survey.
 
-* Objects:245591, mainly galaxies, brighter than a nominal extinction-corrected magnitude limit of $b_J = 19.45$. Reliable (quality>=3) redshifts were obtained for 221414 galaxies.
+## 2dF Galaxy Redshift Survey
 
-* Area, 1500 square degrees. A figure from official site is shown below.
-![2dFGRSSurveyMap](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFGRS_Survey_Map_Small.gif)
+**2dFGRS**, [2dF Galaxy Redshift Survey](http://magnum.anu.edu.au/~TDFgg), is a major spectroscopic survey (integrated with the 2dF QSO survey).
 
-* Galaxy distribution results from completed survey:
+* **Objectives**: {**Completed**}
+
+* **Parameters**: 
+  * Facilities: 2dF facility built by the Anglo-Australian Observatory.
+  * Frequency/Channel:
+  * Objects: 245591, mainly galaxies, brighter than a nominal extinction-corrected magnitude limit of $b_J = 19.45$. Reliable (quality>=3) redshifts were obtained for 221414 galaxies.
+  * Distance: 
+  * Area, 1500 square degrees. A figure from official site is shown below.
+
+  ![2dFGRSSurveyMap](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFGRS_Survey_Map_Small.gif)
+
+  * Resolution:
+
+
+
+**Results**
+
+Galaxy distribution results from completed survey:
+
 ![2dFGRSzCone](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFzcone.gif)
 
+A rendered result of 2dF Galaxy Survey data
+
+![2dFGRS Rendered](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFGRS_2dfgrs.png)
 
 
-**2dF QSO Redshift Survey**, 2QZ. Already integrated into 2dFGRS.
+**Links**: 
 
-* Objects: Magnitude limits are $18.25<b_J<20.85$. Color selection is $u-b_J$ vs. $b_J-r$ plane.
-![2QZColDel](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_col_sel.gif)
-* Area:
-![2QZRegions](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_regions.gif)
+1.  Wikipedia: [http://en.wikipedia.org/wiki/2dF_Galaxy_Redshift_Survey](http://en.wikipedia.org/wiki/2dF_Galaxy_Redshift_Survey)
+2.  Official site: [http://magnum.anu.edu.au/~TDFgg](http://magnum.anu.edu.au/~TDFgg)
+
+
+
+
+
+**2dF QSO Redshift Survey**, 2QZ, is already integrated into 2dFGRS.
+
+* **Objectives**: {**Completed**}
+
+* **Parameters**: 
+  * Facilities:
+  * Frequency/Channel:
+  * Objects: Magnitude limits are $18.25<b_J<20.85$. Color selection is $u-b_J$ vs. $b_J-r$ plane.
+  ![2QZColDel](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_col_sel.gif)  
+  * Distance: 
+  * Area:
+  ![2QZRegions](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_regions.gif)
+  * Resolution:
+
+
+
 
 
 **6dF QSO Redshift Survey**
 
-* Objects: limits $16.0<b_J<18.25$.
+* **Objectives**: {**Completed**}
+
+* **Parameters**: 
+  * Facilities:
+  * Frequency/Channel:
+  * Objects: limits $16.0<b_J<18.25$.
+  * Distance: 
+  * Area:
+  * Resolution:
+
+
+
+
 
 ## 2 MASS Redshift Survey
 
-**2MASS**, the [Two Micron All Sky Survey](http://www.ipac.caltech.edu/2mass), "is designed to close the gap between our current technical capability and our knowledge of the near-infared sky. In addition to providing a contex for the interpretation of results obtained at infrared and other wavelengths." It shows the large-scale structure of the Milky Way and the Local universe.
 
-* Objects: Limited. to local universe.
-* Area: All sky scanning
-* Band: 3 near-infared bands.
-* Reslution: pixel size 2.0".RNR>10.
+**2MASS**, the [Two Micron All Sky Survey](http://www.ipac.caltech.edu/2mass), "is designed to close the gap between our current technical capability and our knowledge of the near-infrared sky. In addition to providing a context for the interpretation of results obtained at infrared and other wavelengths." It shows the large-scale structure of the Milky Way and the Local universe.
 
 
-**2MRS**, the 2MASS Redshif Survey, aims to map the distribution of galaxies and dark matter in the local universe, based on galaxy selectian of 2MASS.
+* **Objectives**: {**Completed**}
 
-* Objects: Aim to 45000 galaxies up to K=11.75mag. This is completed.
-* Redshift out to $z=0.03$ (mean value), or equivalently to 115Mpc/370 million light-years.
-* Band: near infra-red J,H and K-band.
+* **Parameters**: 
+  * Facilities: Two 1.3-m telescopes at Mt. Hopkins, AZ and CTIO, Chile.
+  * Frequency/Channel: 3 near-infrared bands
+  * Objects: Limited to local universe
+  * Area: All sky scanning
+  * Distance: Limited to local universe 
+  * Area: All sky scanning
+  * Resolution: pixel size 2.0".RNR>10.
 
-* All sky map of local universe in infared
-![The Infared Local Universe](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2MRS_Local_Universe_Infared.jpg)
+**Results**
+
+
+**Links**:
+
+1.  [Two Micron All Sky Survey](http://www.ipac.caltech.edu/2mass) 
+
+
+
+
+**2MRS**, the 2MASS Redshift Survey, aims to map the distribution of galaxies and dark matter in the local universe, based on galaxy selection of 2MASS.
+
+
+* **Objectives**: 45000 galaxies up to K=11.75mag {**Completed**}
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel: near infra-red J,H and K-band
+  * Objects: Limited to local universe
+  * Area: All sky scanning
+  * Distance: Redshift out to $z=0.03$ (mean value), or equivalently to 115Mpc/370 million light-years
+  * Area: All sky scanning
+  * Resolution: pixel size 2.0".RNR>10.
+
+**Results**
+
+All sky map of local universe in infrared
+![The Infrared Local Universe](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2MRS_Local_Universe_Infared.jpg)
+
+
+**Links**:
+
+1. 2MASS Redshift Survey @ CfA: [http://www.cfa.harvard.edu/~dfabricant/huchra/2mass](http://www.cfa.harvard.edu/~dfabricant/huchra/2mass)
+
+
+
 
 
 ## VLA FIRST Survey
 
 **VLA FIRST Survey**: [Faint Images of the Radio Sky at Twenty-cm using NRAO Vary Large Array](sundog.stsci.edu/index.html).
 
-> Aim in one sentence:
-> 'designed to produce the radio equivalent of the Palomar Observatory Sky Survey over 10,000 square degrees of the North and South Galactic Caps.
+
+* **Objectives**: "to produce the radio equivalent of the Palomar Observatory Sky Survey over 10,000 square degrees of the North and South Galactic Caps" {**Completed**}
+
+* **Parameters**: 
+  * Facility: VLA in B-configuration
+  * Frequency/Channel: Two channels centered at 1365 MHz and 1435 MHz. In Spring 2011, changed due to EVLA updates
+  * Objects: XXXX {about how many XXXX measured}
+  * Distance: 
+  * Area: Over 10,000 square degrees of the North and South Galactic Caps.
+  * Resolution: Final atlas of maps have a resolution of 5''
+
+**Results**
+
+**Links**: 
+
+1.  Faint Images of the Radio Sky at Twenty-Centimeters: [http://sundog.stsci.edu](http://sundog.stsci.edu)
 
 
-* Objects: 
-* Facility: VLA in B-configuration
-* Area: Over 10,000 square degrees of the North and South Galactic Caps.
-* Band: Two channels centered at 1365 MHz and 1435 MHz. In Spring 2011, changed due to EVLA updates.
-* Resolution: Final atlas of maps have a resolution of 5''. 
 
 
 ## EDisCS
 
 **EDisCS**: [ESO Distant Clusters Survey](http://www.mpa-garching.mpg.de/galform/ediscs/)
 
-* Objects: galaxies in rich clusters.
-* Facility:
-* Distance: z~0.5 and z>0.8
-* Area:
-* Band:
+* **Objectives**:  {**Completed**}
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: galaxies in rich clusters.
+  * Distance: z~0.5 and z>0.8
+  * Area: 
+  * Resolution:
+
+**Results**
+
+**Links**: 
+
+1.  EDisCS: [http://www.mpa-garching.mpg.de/galform/ediscs](http://www.mpa-garching.mpg.de/galform/ediscs)
+
+
+
+
+## LCRS
+
+**LCRS**, [the Las Campanas Redshift Survey](http://qold.astro.utoronto.ca/~lin/lcrs.html)
+
+
+* **Objectives**: "provide a large galaxy sample which permits detailed and accurate analyses of the properties of galaxies in the local universe" {**Completed**}
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: Galaxies selected from a CCD-based catalog measured in a Kron-Cousins R-band
+  * Distance: Typical redshift is 30000 km/s
+  * Area: 700 square degrees in 6 strips, each 1.5 degrees * 80 degrees, three each in the North and South galactic caps.
+  * Resolution:
+  * Examinations: Clustering, luminosity, and spectral properties
+
+**Results**
+
+Two dimensional representations of the redshift distribution
+
+![Two dimensional representations of the redshift distribution of LCRS](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/LCRS_galtrans1b.gif)
+
+We can see voids and walls.
+
+**Links**: 
+
+1.  LCRS: [http://qold.astro.utoronto.ca/~lin/lcrs.html](http://qold.astro.utoronto.ca/~lin/lcrs.html)
+
+
+
+
+## ESP
+
+**ESP**: [the ESO Slice Project](http://www.bo.astro.it/~cappi/esokp.html)
+
+
+
+* **Objectives**: {**Completed**}
+  * Determination of the galaxy luminosity function in a volume with dimensions large enough to average over the large scale inhomogeneities.
+  * Study of the statistic of emission line galaxies in a large, unbiased sample of galaxies.
+  * Measure of the size distribution of inhomogeneities in the galaxy distribution over a large volume.
+
+* **Parameters**: 
+  * Facilities: ESO 3.6m telescope
+  * Frequency/Channel:
+  * Objects: Limiting magnitude bJ=19.4 {about 4000 objects measured, 3342 galaxy redshifts}
+  * Distance: Selection function peak at z=0.1
+  * Area: Over about 23 square degrees near the South Galactic Pole 
+  * Resolution:
+
+**Results**
+
+Cone diagram
+
+![ESP Cone Diagram](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/LCRS_galtrans1b.gif)
+
+
+**Links**: 
+
+1. ESP: [http://www.bo.astro.it/~cappi/esokp.html](http://www.bo.astro.it/~cappi/esokp.html)
+
+
+
+
+## CNOC
+
+**CNOC**: [the Canadian Network for Observational Cosmology](http://www.astro.utoronto.ca/~cnoc/)
+
+
+#### **The CNOC1 Cluster Survey**
+
+* **Objectives**: {**Completed**}
+
+* **Parameters**: 
+  * Facilities: CFHT Multi-Object-Spectrograph(MOS)
+  * Frequency/Channel:
+  * Objects: 16 rich X-ray selected galaxy clusters {about 1200 cluster redshifts and 1000 field redshifts identified}
+  * Distance: 0.17<z<0.55
+  * Area: 
+  * Resolution:
+
+**Results**
+
+Determine Omega
+
+![Determine Omega](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/CNOC1_om.gif)
+
+**Links**: 
+
+1. CNOC1:  [http://www.astro.utoronto.ca/~cnoc/](http://www.astro.utoronto.ca/~cnoc/)
+
+
+
+
+### CNOC2 Field Galaxy Survey
+
+
+* **Objectives**:  {**Completed**}
+
+* **Parameters**: 
+  * Facilities: CFHT MOS
+  * Frequency/Channel:
+  * Objects: 4 widely separated patches away from very bright stars and known rich low-z galaxy  clusters {about 6200 field galaxy redshifts measured}
+  * Distance: To z=0.7
+  * Area: 1.5 square degrees
+  * Resolution:
+
+**Results**
+
+**Links**: 
+
+1. CNOC1:  [http://www.astro.utoronto.ca/~cnoc/](http://www.astro.utoronto.ca/~cnoc/)
+
+
+
 
 
 ## Sloan Digital Sky Survey
@@ -151,21 +371,18 @@ In this map,
 Template for surveys:
 
 
-* **Objectives**: XXXXXX | **Completed**
+* **Objectives**: XXXXXX {**Completed**}
 
 * **Parameters**: 
   * Facilities: 
   * Frequency/Channel:
-  * Objects: XXXX | about how many XXXX measured
+  * Objects: XXXX {about how many XXXX measured}
   * Distance: 
   * Area: 
   * Resolution:
 
 **Results**
 
-![CfA Redshift Survey Data](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/CfA_cfa2.map.jpg)
-
-What does that figure mean?
-
 **Links**: 
+
 1. 
