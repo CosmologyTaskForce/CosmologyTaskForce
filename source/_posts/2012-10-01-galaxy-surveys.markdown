@@ -107,18 +107,26 @@ A rendered result of 2dF Galaxy Survey data
 
 
 
-**6dF QSO Redshift Survey**
+## 6dF Galaxy Survey
+
 
 * **Objectives**: {**Completed**}
 
 * **Parameters**: 
-  * Facilities:
-  * Frequency/Channel:
-  * Objects: limits $16.0<b_J<18.25$.
+  * Facilities: UK Schmidt telescope using the Six-degree Field(6dF) multi-object fibre spectrograph
+  * Frequency/Channel: 
+  * Objects: limits $16.0<b_J<18.25$ {136,304 spectra}.
   * Distance: 
-  * Area:
+  * Area: Nearly the entire southern sky
+  ![Area](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/6dFGRS_animsky3.gif)
   * Resolution:
+  * Examinations: Spectra and (in peculiar velocity survey) galaxy mass and bulk motions
 
+
+* Links:
+
+1. 6dFGS: [http://www.aao.gov.au/local/www/6df](http://www.aao.gov.au/local/www/6df)
+2. 6dFGS: [http://www-wfau.roe.ac.uk/6dFGS](http://www-wfau.roe.ac.uk/6dFGS)
 
 
 
@@ -188,7 +196,7 @@ All sky map of local universe in infrared
 * **Parameters**: 
   * Facility: VLA in B-configuration
   * Frequency/Channel: Two channels centered at 1365 MHz and 1435 MHz. In Spring 2011, changed due to EVLA updates
-  * Objects: XXXX {about how many XXXX measured}
+  * Objects: 
   * Distance: 
   * Area: Over 10,000 square degrees of the North and South Galactic Caps.
   * Resolution: Final atlas of maps have a resolution of 5''
@@ -279,7 +287,7 @@ We can see voids and walls.
 
 Cone diagram
 
-![ESP Cone Diagram](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/LCRS_galtrans1b.gif)
+![ESP Cone Diagram](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/ESP_kpcono.gif)
 
 
 **Links**: 
@@ -346,14 +354,221 @@ Determine Omega
 
 **SDSS**: [Sloan Digital Sky Survey](http://www.sdss.org)
 
+There are 3 programs until now. SDSS is too famous and too complicated to list here. Use the links to read it on SDSS website.
+
+### SDSS1
+
+### SDSS2
+
+### SDSS3
 
 
-## Galaxy And Mass Assembly Survey
+**Links**: 
+
+1.  SDSS: [http://www.sdss.org](http://www.sdss.org)
+
+
+
+
+## GAMA
+
+**GAMA**: [Galaxy And Mass Assembly Survey](http://www.gama-survey.org)
+
+
+
+* **Objectives**: "study cosmology and galaxy formation and evolution"
+  1. To **test modified theories of gravity** by measuring the growth rate of structure; the CDM model by measuring the halo mass function; and galaxy formation models by measuring the star formation efficiency in groups.
+  2. To measure the connection between star formation fuelling, stellar mass build-up and feedback processes.
+  3. To uncover the detailed mechanisms that govern the build-up of the stellar content of galaxies.
+  4. To directly measure the recent galaxy merger rate as a function of mass, mass ratio, local environment and galaxy type.
+
+* **Parameters**: 
+  * Facilities: AAOmega MOS on Anglo-Australian Telescope (AAT)
+  * Frequency/Channel:
+  * Objects: 340,000 galaxies down to r<19.8 mag {about how many XXXX measured}
+  * Distance: 0.015<z<0.04 for each GAMA fields (G09, G12, G15)
+  * Area: About 310 deg^2
+  * Resolution:
+
+**Results**
+
+Three animations to illustrate some of the results, (blue for 10^8 to 10^9 solar masses; green for 10^9 to 10^10 solar masses; orange for 10^10 to 10^11 solar masses; red for more than 10^11 solar masses)
+
+![GAMA 3D Universe G09](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/GAMA_anim-comp000.gif)
+![GAMA 3D Universe G12](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/GAMA_anim-comp001.gif)
+![GAMA 3D Universe G15](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/GAMA_anim-comp002.gif)
+
+
+
+**Links**: 
+
+1. GAMA: [http://www.gama-survey.org](http://www.gama-survey.org)
+
+
 
 ## DEEP2 Redshift Survey, high redshift
 
 ## VIMOS-VLT Deep Survey, high redshift
 
+
+## UKIDSS
+
+**UKIDSS**: [UKIRT Infrared Deep Sky Survey](http://www.ukidss.org), is a successor to 2MASS and made up of five surveys and includes two deep extra-Galactic elements, one covering 35 square degrees to K=21 and the other reaching K=23 over 0.77 square degrees.
+
+
+
+* **Objectives**: 
+
+* **Parameters**: 
+  * Facilities: WFCAM on UK Infrared Telescope (UKIRT) in Hawaii.
+  * Frequency/Channel: 
+  * Objects: JHK to K=18.3, principal quarry: coolest and nearest brown dwarfs, high-redshift dusty starburst galaxies, elliptical galaxies and galaxy clusters at redshifts 1<z<2, and the highest-redshift quasars at z=7
+  * Distance: Check objects
+  * Area: 7500 square degrees of Northern sky, extending over both high and low Galactic latitudes. Planned coverage is
+     1. Orange: Large Area Survey (LAS) 4000 sq. degs K=18.4  extraGalactic
+     2. Purple:  Galactic Plane Survey (GPS) 1800 sq. degs K=19.0  Galactic
+     3. Green:   Galactic Clusters Survey (GCS)  1400 sq. degs K=18.7  Galactic
+     4. Blue:   Deep Extragalactic Survey (DXS) 35 sq. degs K=21.0  extraGalactic
+     5. Red:   Ultra Deep Survey (UDS) 0.77 sq. degs K=23.0  extraGalactic
+   ![Planned final UKIDSS sky coverage](http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/UKIDSS_all7yr.gif)
+  * Resolution:
+
+**Results**
+
+**Links**: 
+
+1. UKIDSS: [http://www.ukidss.org](http://www.ukidss.org)
+
+
+
+## Pan-STARRS
+
+**Pan-STARRS**: [the Panoramic Survey Telescope & Rapid Response System](http://pan-starrs.ifa.hawaii.edu/public)
+
+
+
+* **Objectives**: (Originally) detect potentially hazardous objects in the solar system, and other solar system astronomy and cosmology.
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: 
+  * Distance: 
+  * Area: 
+  * Resolution:
+
+**Results**
+
+**Links**: 
+
+1.  Pan-STARRS: [http://pan-starrs.ifa.hawaii.edu/public](http://pan-starrs.ifa.hawaii.edu/public)
+
+
+
+
+## PRIMUS
+
+**PRIMUS**: [PRIsm MUlti-object Survey](http://cass.ucsd.edu/~acoil/primus/Home.html), is the largest faint galaxy spectroscopic redshift survey to date.
+
+
+
+* **Objectives**: 
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: 120,000 galaxy redshifts
+  * Distance: To z=1
+  * Area: 9 sq. deg. focusing on regions with deep Spitzer, optical, GALEX and X-ray data
+  * Resolution:
+
+**Results**
+
+**Links**: 
+
+1. PRIMUS: [http://cass.ucsd.edu/~acoil/primus/Home.html](http://cass.ucsd.edu/~acoil/primus/Home.html)
+
+
+
+
+## Spitzer
+
+
+## BOSS
+
+**BOSS**: [Baryon Oscillation Spectroscopic Survey](http://cosmology.lbl.gov/BOSS). **FUTURE SURVEY**
+
+
+* **Objectives**: 
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: 
+  * Distance: 
+  * Area: 
+  * Resolution:
+
+**Results**
+
+
+**Links**
+
+1. BOSS: [http://cosmology.lbl.gov/BOSS](http://cosmology.lbl.gov/BOSS)
+
+
+
+
+## DES
+
+**DES**: [the Dark Energy Survey](http://www.darkenergysurvey.org)
+
+
+
+* **Objectives**: "designed to probe the origin of the accelerating universe and help uncover the nature of dark energy by measuring the 14-billion-year history of cosmic expansion with high precision"
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: 
+  * Distance: 
+  * Area: 
+  * Resolution:
+
+**Results**
+
+
+
+**Links**
+
+1. DES: [http://www.darkenergysurvey.org](http://www.darkenergysurvey.org)
+
+
+
+
+
+## LSST
+
+**LSST**: [the Large Synoptic Survey Telescope](http://www.lsst.org)
+
+
+* **Objectives**: 
+
+* **Parameters**: 
+  * Facilities: 
+  * Frequency/Channel:
+  * Objects: 
+  * Distance: 
+  * Area: 
+  * Resolution:
+
+**Results**
+
+
+
+**Links**
+
+1.  LSST: [http://www.lsst.org](http://www.lsst.org)
 
 
 
