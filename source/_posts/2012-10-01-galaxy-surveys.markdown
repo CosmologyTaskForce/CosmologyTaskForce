@@ -4,6 +4,7 @@ title: "Galaxy Surveys"
 date: 2012-10-01 00:09
 comments: true
 categories: [Galaxy Surveys, Cosmological Surveys]
+toc: true
 ---
 
 
