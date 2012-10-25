@@ -5,7 +5,7 @@
 }
 
 * + table th, * + table td {
-  border-style:dashed;
+  border-style:solid;
   border-width:1px;
   border-color:lightgreen;
   padding-left: 3px;
