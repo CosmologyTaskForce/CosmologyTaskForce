@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Surveys | Cosmology Taskforce]]></title>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/surveys/atom.xml" rel="self"/>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
+  <updated>2012-10-25T15:11:17+08:00</updated>
+  <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
+  <author>
+    <name><![CDATA[Marvin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cosmic Background]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Cosmological/Surveys/cosmic-background/"/>
+    <updated>2012-10-01T00:48:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Cosmological/Surveys/cosmic-background</id>
+    <content type="html"><![CDATA[<p>This is a post for cosmic background radiation surveys.</p>
+
+<!-- more -->
+]]></content>
+  </entry>
+  
+</feed>

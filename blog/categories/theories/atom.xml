@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
+  <updated>2012-10-25T15:11:17+08:00</updated>
+  <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
+  <author>
+    <name><![CDATA[Marvin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gravity Probing]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theories/gravity-probing/"/>
+    <updated>2012-10-02T03:26:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theories/gravity-probing</id>
+    <content type="html"><![CDATA[<p>This post lists the experiments which are used to test gravity theories carried out on the earth.</p>
+
+<!-- more -->
+
+<h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
+
+<p>Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.</p>
+
+<h2 id="hughes-drevershiy-experiment-etc">Hughes-Drevershiy Experiment, etc</h2>
+
+<p>Anisotropy of gravitation/electromagnetism is not proved in our galaxy.</p>
+
+<h2 id="summary-table">Summary Table</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Experiment</th>
+      <th>Results</th>
+      <th style="text-align: right">Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>WEP</td>
+      <td>Eotvos torsion balance[[^1]]</td>
+      <td>$\eta = (0.3 \pm 1.8) \times 10^{-13}$</td>
+      <td style="text-align: right">More precise in space exp.</td>
+    </tr>
+    <tr>
+      <td>EEP</td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="footnote">Footnote</h2>
+
+<p>[^1]</p>
+]]></content>
+  </entry>
+  
+</feed>
