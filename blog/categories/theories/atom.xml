@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T16:28:50+08:00</updated>
+  <updated>2012-10-25T17:48:34+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -32,6 +32,8 @@
 
 <h2 id="summary-table">Summary Table</h2>
 
+<p>Test of fundamental principles</p>
+
 <table>
   <thead>
     <tr>
@@ -44,15 +46,21 @@
   <tbody>
     <tr>
       <td>WEP</td>
-      <td>Eotvos torsion balance[[^1]]</td>
+      <td>Eotvos torsion balance</td>
       <td>$\eta = (0.3 \pm 1.8) \times 10^{-13}$</td>
-      <td style="text-align: right">More precise in space exp.</td>
+      <td style="text-align: right">More precise in space exp.  [<sup id="fnref:1a"><a href="#fn:1a" rel="footnote">1</a></sup>]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Gravitational redshift of light</td>
+      <td> </td>
+      <td style="text-align: right">[<sup id="fnref:1b"><a href="#fn:1b" rel="footnote">2</a></sup>]</td>
     </tr>
     <tr>
       <td>EEP</td>
-      <td> </td>
-      <td> </td>
-      <td style="text-align: right"> </td>
+      <td>Hughes-Drever Experiment</td>
+      <td>$n \le 10^{-27}$</td>
+      <td style="text-align: right">[<sup id="fnref:2"><a href="#fn:2" rel="footnote">3</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
@@ -60,6 +68,21 @@
       <td> </td>
       <td style="text-align: right"> </td>
     </tr>
+  </tbody>
+</table>
+
+<p>Test of GR:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Experiment</th>
+      <th>Results</th>
+      <th style="text-align: right">Note</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td> </td>
       <td> </td>
@@ -71,7 +94,38 @@
 
 <h2 id="footnote">Footnote</h2>
 
-<p>[^1]</p>
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><strong>References</strong> R. W. P. Drever. A search for anisotropy of inertial mass using a free precession technique. Philosophical Magazin, 6:683-687, May 1961.</td>
+          <td>V. W. Hughes, H. G. Robinson, and V. Beltran-Lopez. Upper Limit for the Anisotropy of Inertial Mass from Nuclear Resonance Experiments. Physical Review Letters, 4:342-344, Apr. 1960.</td>
+          <td>S. K. Lamoreaux, J. P. Jacobs, B. R. Heckel, F. J. Raab, and E. N. Fortson. New limits on spatial anisotropy from optically-pumped 201 Hg and 199 Hg. Physical Review Letters, 57:3125–3128, Dec. 1986.</td>
+          <td>T. E. Chupp, R. J. Hoare, R. A. Loveman, E. R. Oteiza, J. M. Richardson, M. E. Wagshul, and A. K. Thompson. Results of a new test of local Lorentz invariance: A search for mass anisotropy in 21 Ne. Physical Review Letters, 63:1541–1545, Oct. 1989.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Hughes-Drever Experiment: test the isotropy of mass and space through the NMR spectrum, or the mono-metric spacetime.</li>
+  <li>n: four momentum of the test particle  is $p<em>\mu = \frac{m g</em>{\mu\nu}u^\nu}{\sqrt{-g<em>{\alpha\beta}u^\alpha u^\beta}} + \frac{ n h</em>{\mu\nu}u^\nu }{ -h_{\alpha\beta} u^\alpha u^\beta }$. Thus $n$ is the effect of another metric.</li>
+</ul>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1a">
+      <p>arXiv:0712.0607<a href="#fnref:1a" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:1b">
+
+      <p><a href="#fnref:1b" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+
+      <p><a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
