@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T20:24:08+08:00</updated>
+  <updated>2012-10-25T20:43:34+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -31,6 +31,8 @@
 <p>Anisotropy of gravitation/electromagnetism is not proved in our galaxy.</p>
 
 <h2 id="summary-table">Summary Table</h2>
+
+<p>Tables constructed according to arXiv:1106.2476v3.</p>
 
 <p>Test of fundamental principles</p>
 
@@ -96,8 +98,8 @@
       <td style="text-align: right">[<sup id="fnref:5a"><a href="#fn:5a" rel="footnote">6</a></sup>] [<sup id="fnref:5b"><a href="#fn:5b" rel="footnote">7</a></sup>]</td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
+      <td>Time like geodesics</td>
+      <td>Anomalous perihelion precession</td>
       <td> </td>
       <td style="text-align: right"> </td>
     </tr>
