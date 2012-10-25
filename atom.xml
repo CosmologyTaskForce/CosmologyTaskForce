@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T19:38:08+08:00</updated>
+  <updated>2012-10-25T19:52:54+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -116,18 +116,7 @@
 <h2 id="footnote">Footnote</h2>
 
 <ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td><strong>References</strong> R. W. P. Drever. A search for anisotropy of inertial mass using a free precession technique. Philosophical Magazin, 6:683-687, May 1961.</td>
-          <td>V. W. Hughes, H. G. Robinson, and V. Beltran-Lopez. Upper Limit for the Anisotropy of Inertial Mass from Nuclear Resonance Experiments. Physical Review Letters, 4:342-344, Apr. 1960.</td>
-          <td>S. K. Lamoreaux, J. P. Jacobs, B. R. Heckel, F. J. Raab, and E. N. Fortson. New limits on spatial anisotropy from optically-pumped 201 Hg and 199 Hg. Physical Review Letters, 57:3125–3128, Dec. 1986.</td>
-          <td>T. E. Chupp, R. J. Hoare, R. A. Loveman, E. R. Oteiza, J. M. Richardson, M. E. Wagshul, and A. K. Thompson. Results of a new test of local Lorentz invariance: A search for mass anisotropy in 21 Ne. Physical Review Letters, 63:1541–1545, Oct. 1989.</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><strong>References</strong> R. W. P. Drever. A search for anisotropy of inertial mass using a free precession technique. Philosophical Magazin, 6:683-687, May 1961.  ;   V. W. Hughes, H. G. Robinson, and V. Beltran-Lopez. Upper Limit for the Anisotropy of Inertial Mass from Nuclear Resonance Experiments. Physical Review Letters, 4:342-344, Apr. 1960.    ;   S. K. Lamoreaux, J. P. Jacobs, B. R. Heckel, F. J. Raab, and E. N. Fortson. New limits on spatial anisotropy from optically-pumped 201 Hg and 199 Hg. Physical Review Letters, 57:3125–3128, Dec. 1986.    ;     T. E. Chupp, R. J. Hoare, R. A. Loveman, E. R. Oteiza, J. M. Richardson, M. E. Wagshul, and A. K. Thompson. Results of a new test of local Lorentz invariance: A search for mass anisotropy in 21 Ne. Physical Review Letters, 63:1541–1545, Oct. 1989.</li>
   <li>Hughes-Drever Experiment: test the isotropy of mass and space through the NMR spectrum, or the mono-metric spacetime.</li>
   <li>n: four momentum of the test particle  is $p<em>\mu = \frac{m g</em>{\mu\nu}u^\nu}{\sqrt{-g<em>{\alpha\beta}u^\alpha u^\beta}} + \frac{ n h</em>{\mu\nu}u^\nu }{ -h_{\alpha\beta} u^\alpha u^\beta }$. Thus $n$ is the effect of another metric.</li>
 </ul>
