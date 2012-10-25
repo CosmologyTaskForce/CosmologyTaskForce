@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T20:15:38+08:00</updated>
+  <updated>2012-10-25T20:17:01+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -116,11 +116,9 @@
 <h2 id="footnote">Footnote</h2>
 
 <blockquote>
-  <ul>
-    <li>a</li>
-    <li>b</li>
-    <li>c </li>
-  </ul>
+  <p>a
+ b
+ c </p>
 </blockquote>
 
 <div class="footnotes">
