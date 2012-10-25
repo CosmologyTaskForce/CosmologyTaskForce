@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T17:48:34+08:00</updated>
+  <updated>2012-10-25T19:38:08+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -48,19 +48,19 @@
       <td>WEP</td>
       <td>Eotvos torsion balance</td>
       <td>$\eta = (0.3 \pm 1.8) \times 10^{-13}$</td>
-      <td style="text-align: right">More precise in space exp.  [<sup id="fnref:1a"><a href="#fn:1a" rel="footnote">1</a></sup>]</td>
+      <td style="text-align: right">More precise in space exp.  [<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
       <td>Gravitational redshift of light</td>
       <td> </td>
-      <td style="text-align: right">[<sup id="fnref:1b"><a href="#fn:1b" rel="footnote">2</a></sup>]</td>
+      <td style="text-align: right">[<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>]</td>
     </tr>
     <tr>
       <td>EEP</td>
       <td>Hughes-Drever Experiment</td>
       <td>$n \le 10^{-27}$</td>
-      <td style="text-align: right">[<sup id="fnref:2"><a href="#fn:2" rel="footnote">3</a></sup>]</td>
+      <td style="text-align: right">[<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
@@ -83,6 +83,18 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Null geodesics test</td>
+      <td>photon trajectory, spatial deflection</td>
+      <td>$\theta = (0.99992\pm 0.00023)\times 1.75’’$, where 1.75 is the theoretical value</td>
+      <td style="text-align: right">Achieved through observing star position, etc [<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup>]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Shapiro time-delay effect</td>
+      <td>$\Delta t = (1.00001\pm 0.00001)\Delta t_{GR}$</td>
+      <td style="text-align: right">[<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup>]</td>
+    </tr>
     <tr>
       <td> </td>
       <td> </td>
@@ -111,18 +123,38 @@
   <li>n: four momentum of the test particle  is $p<em>\mu = \frac{m g</em>{\mu\nu}u^\nu}{\sqrt{-g<em>{\alpha\beta}u^\alpha u^\beta}} + \frac{ n h</em>{\mu\nu}u^\nu }{ -h_{\alpha\beta} u^\alpha u^\beta }$. Thus $n$ is the effect of another metric.</li>
 </ul>
 
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>I. I. Shapiro. Fourth Test of General Relativity. Physical Review Letters, 13:789–791, Dec. 1964.</td>
+          <td>B. Bertotti, L. Iess, and P. Tortora. A test of general relativity using radio links with the Cassini spacecraft. Nature, 425:374–376, Sept. 2003.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Shapiro time-delay effect: time delay when light travels through a massive object.</li>
+</ul>
 <div class="footnotes">
   <ol>
-    <li id="fn:1a">
-      <p>arXiv:0712.0607<a href="#fnref:1a" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:1b">
-
-      <p><a href="#fnref:1b" rel="reference">&#8617;</a></p>
+    <li id="fn:1">
+      <p>arXiv:0712.0607<a href="#fnref:1" rel="reference">&#8617;</a></p>
     </li>
     <li id="fn:2">
 
       <p><a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+
+      <p><a href="#fnref:3" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p>S. S. Shapiro, J. L. Davis, D. E. Lebach, and J. S. Gregory. Measurement of the Solar Gravitational Deflection of Radio Waves using Geodetic Very-Long-Baseline Interferometry Data, 1979 1999. Physical Review Letters, 92(12):121101, Mar. 2004.<a href="#fnref:4" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:5">
+
+      <p><a href="#fnref:5" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
