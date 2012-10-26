@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-26T21:14:08+08:00</updated>
+  <updated>2012-10-26T23:48:28+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -131,6 +131,18 @@
       <td>$\eta = (-1.0 \pm 1.4) \times 10^{-*13}$</td>
       <td style="text-align: right">[<sup id="fnref:7a"><a href="#fn:7a" rel="footnote">12</a></sup>] [<sup id="fnref:7b"><a href="#fn:7b" rel="footnote">13</a></sup>]</td>
     </tr>
+    <tr>
+      <td> </td>
+      <td>Spinning objects obiting</td>
+      <td> </td>
+      <td style="text-align: right">[<sup id="fnref:8a"><a href="#fn:8a" rel="footnote">14</a></sup>] [<sup id="fnref:8b"><a href="#fn:8b" rel="footnote">15</a></sup>]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -176,8 +188,14 @@
       <p><strong>K. Nordtvedt</strong>. Equivalence Principle for Massive Bodies. I. Phenomenology. Physical Review, 169:1014–1016, May 1968.   ;  <strong>J. G. Williams, S. G. Turyshev, and D. H. Boggs</strong>. Progress in Lunar Laser Ranging Tests of Relativistic Gravity. Physical Review Letters, 93(26):261101, Dec. 2004, arXiv:gr-qc/0411113.<a href="#fnref:7a" rel="reference">&#8617;</a></p>
     </li>
     <li id="fn:7b">
+      <p><strong>Nordtvedt effect</strong>: massive objects in Eotvos torsion balance experiments. We can use the whole Earth-Moon system to test this effect.<a href="#fnref:7b" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:8a">
 
-      <p><a href="#fnref:7b" rel="reference">&#8617;</a></p>
+      <p><a href="#fnref:8a" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:8b">
+      <p>There is a Lense Thirring effect here. GPB has done this.<a href="#fnref:8b" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
