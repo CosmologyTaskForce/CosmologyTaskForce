@@ -69,7 +69,8 @@ Test of GR:
 |   |  Shapiro time-delay effect  |  $\Delta t = (1.00001\pm 0.00001)\Delta t_{GR}$   |  [[^5a]] [[^5b]]  |
 | Time like geodesics |  Anomalous perihelion precession  |     |    Just use the PPN formalism   [[^6a]] [[^6b]] [[^6c]] |
 |   | Nordtvedt effect |  $\eta = (-1.0 \pm 1.4) \times 10^{-*13}$ | [[^7a]] [[^7b]]  |
-
+|    | Spinning objects obiting  |                |  [[^8a]] [[^8b]]        |
+|    |                    |                 |                      |
 
 
 
@@ -105,5 +106,8 @@ Test of GR:
 
 [^7a]:  **K. Nordtvedt**. Equivalence Principle for Massive Bodies. I. Phenomenology. Physical Review, 169:1014–1016, May 1968.   ;  **J. G. Williams, S. G. Turyshev, and D. H. Boggs**. Progress in Lunar Laser Ranging Tests of Relativistic Gravity. Physical Review Letters, 93(26):261101, Dec. 2004, arXiv:gr-qc/0411113.
 
-[^7b]: 
+[^7b]: **Nordtvedt effect**: massive objects in Eotvos torsion balance experiments. We can use the whole Earth-Moon system to test this effect.
 
+[^8a]: 
+
+[^8b]: There is a Lense Thirring effect here. GPB has done this.
