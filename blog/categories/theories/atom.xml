@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-25T20:43:34+08:00</updated>
+  <updated>2012-10-26T09:47:56+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -23,6 +23,26 @@
 <!-- more -->
 
 <h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
+
+<h3 id="how">How</h3>
+
+<ul>
+  <li>Inertial mass $m_I$</li>
+  <li>Gravitational mass $m_G$</li>
+</ul>
+
+<p>In Newtonian system, the acceleration of an object will be
+[ \vec a \prop \frac{\vec F}{m_I} ]</p>
+
+<p>In a static and uniform gravitation field, the gravity force is
+[ \vec G = - g m_G \hat r ]</p>
+
+<p>Thus the acceleration in this case should be
+[ \vec a \prop -\hat r g \frac{m_G}{m_I} ]</p>
+
+<p>When $m_G/m_I$ is constant, the falling accerelation are the same for different objects with same mass. However, if $m_G/m_I$ is not a constant, say $m_G\ne m_I$, different objects would fall at different acceleration.</p>
+
+<p>Now if we put two ball with different mass on the Eotvos torsion balance, the balance would rotate and we can measure it.</p>
 
 <p>Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.</p>
 
@@ -50,7 +70,7 @@
       <td>WEP</td>
       <td>Eotvos torsion balance</td>
       <td>$\eta = (0.3 \pm 1.8) \times 10^{-13}$</td>
-      <td style="text-align: right">More precise in space exp.  [<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>]</td>
+      <td style="text-align: right">More precise in space exp.  [[^1]a] [<sup id="fnref:1b"><a href="#fn:1b" rel="footnote">1</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
@@ -101,6 +121,12 @@
       <td>Time like geodesics</td>
       <td>Anomalous perihelion precession</td>
       <td> </td>
+      <td style="text-align: right">Just use the PPN formalism   [<sup id="fnref:6a"><a href="#fn:6a" rel="footnote">8</a></sup>] [<sup id="fnref:6b"><a href="#fn:6b" rel="footnote">9</a></sup>] [<sup id="fnref:6c"><a href="#fn:6c" rel="footnote">10</a></sup>]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Nordtvedt effect</td>
+      <td> </td>
       <td style="text-align: right"> </td>
     </tr>
   </tbody>
@@ -110,8 +136,8 @@
 
 <div class="footnotes">
   <ol>
-    <li id="fn:1">
-      <p>arXiv:0712.0607<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    <li id="fn:1b">
+      <p><strong>Eotvos experiment</strong>: using torsion balance to test the equality of gravitational mass and inertial mass. Wikipedia has a photo of how this works. <a href="#fnref:1b" rel="reference">&#8617;</a></p>
     </li>
     <li id="fn:2">
 
@@ -131,6 +157,15 @@
     </li>
     <li id="fn:5b">
       <p><strong>Shapiro time-delay effect</strong>: time delay when light travels through a massive object.<a href="#fnref:5b" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:6a">
+      <p>Observational data for the value of perihelion precession of Mercury are summarized in <strong>E. V. Pitjeva</strong>. Modern Numerical Ephemerides of Planets and the Importance of Ranging Observations for Their Creation. Celestial Mechanics and Dynamical Astronomy, 80:249–271, July 2001. <a href="#fnref:6a" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:6b">
+      <p>PPN formalism is the lowest order of GR.<a href="#fnref:6b" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:6c">
+      <p><strong>Anomalous precession</strong>:<a href="#fnref:6c" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
