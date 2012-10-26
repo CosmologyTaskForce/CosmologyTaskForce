@@ -33,7 +33,7 @@ When $m_G/m_I$ is constant, the falling accerelation are the same for different 
 
 Now if we put two ball with different mass on the Eotvos torsion balance, the balance would rotate and we can measure it.
 
-
+### Results
 
 Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.
 
@@ -55,7 +55,7 @@ Test of fundamental principles
 
 |  |  Experiment   | Results | Note |
 | ------ | ------ | ------ | -----: |
-| WEP | Eotvos torsion balance |    $\eta = (0.3 \pm 1.8) \times 10^{-13}$    |   More precise in space exp.  [[^1]a] [[^1b]] |
+| WEP | Eotvos torsion balance |    $\eta = (0.3 \pm 1.8) \times 10^{-13}$    |   More precise in space exp.  [[^1]a] [[^1b]] [[^1c]] |
 |  |  Gravitational redshift of light  |     |  [[^2]]  |
 | EEP | Hughes-Drever Experiment |  $n \le 10^{-27}$   |  [[^3a]] [[^3b]]  |
 |  |     |       |    |
@@ -68,7 +68,7 @@ Test of GR:
 | Null geodesics test |  photon trajectory, spatial deflection   |  $\theta = (0.99992\pm 0.00023)\times 1.75''$, where 1.75 is the theoretical value     |  Achieved through observing star position, etc [[^4]]  |
 |   |  Shapiro time-delay effect  |  $\Delta t = (1.00001\pm 0.00001)\Delta t_{GR}$   |  [[^5a]] [[^5b]]  |
 | Time like geodesics |  Anomalous perihelion precession  |     |    Just use the PPN formalism   [[^6a]] [[^6b]] [[^6c]] |
-|   | Nordtvedt effect |   |   |
+|   | Nordtvedt effect |  $\eta = (-1.0 \pm 1.4) \times 10^{-*13}$ | [[^7a]] [[^7b]]  |
 
 
 
@@ -79,6 +79,8 @@ Test of GR:
 [^1a]: arXiv:0712.0607
 
 [^1b]: **Eotvos experiment**: using torsion balance to test the equality of gravitational mass and inertial mass. Wikipedia has a photo of how this works. 
+
+[^1c]: $\eta=2\frac{ABS(a1-a2)}{ABS(a1+a2)}$. $a1$ and $a2$ are the accelerations of the two bodies in Eotvos torsion balance. Thus $\eta$ is the accleration difference of the two objects.
 
 [^2]: 
 
@@ -100,4 +102,8 @@ Test of GR:
 [^6b]: PPN formalism is the lowest order of GR.
 
 [^6c]: **Anomalous precession**:
+
+[^7a]:  **K. Nordtvedt**. Equivalence Principle for Massive Bodies. I. Phenomenology. Physical Review, 169:1014–1016, May 1968.   ;  **J. G. Williams, S. G. Turyshev, and D. H. Boggs**. Progress in Lunar Laser Ranging Tests of Relativistic Gravity. Physical Review Letters, 93(26):261101, Dec. 2004, arXiv:gr-qc/0411113.
+
+[^7b]: 
 
