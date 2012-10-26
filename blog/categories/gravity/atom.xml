@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-26T09:47:56+08:00</updated>
+  <updated>2012-10-26T12:24:16+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -44,6 +44,8 @@
 
 <p>Now if we put two ball with different mass on the Eotvos torsion balance, the balance would rotate and we can measure it.</p>
 
+<h3 id="results">Results</h3>
+
 <p>Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.</p>
 
 <h2 id="hughes-drevershiy-experiment-etc">Hughes-Drevershiy Experiment, etc</h2>
@@ -70,19 +72,19 @@
       <td>WEP</td>
       <td>Eotvos torsion balance</td>
       <td>$\eta = (0.3 \pm 1.8) \times 10^{-13}$</td>
-      <td style="text-align: right">More precise in space exp.  [[^1]a] [<sup id="fnref:1b"><a href="#fn:1b" rel="footnote">1</a></sup>]</td>
+      <td style="text-align: right">More precise in space exp.  [[^1]a] [<sup id="fnref:1b"><a href="#fn:1b" rel="footnote">1</a></sup>] [<sup id="fnref:1c"><a href="#fn:1c" rel="footnote">2</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
       <td>Gravitational redshift of light</td>
       <td> </td>
-      <td style="text-align: right">[<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>]</td>
+      <td style="text-align: right">[<sup id="fnref:2"><a href="#fn:2" rel="footnote">3</a></sup>]</td>
     </tr>
     <tr>
       <td>EEP</td>
       <td>Hughes-Drever Experiment</td>
       <td>$n \le 10^{-27}$</td>
-      <td style="text-align: right">[<sup id="fnref:3a"><a href="#fn:3a" rel="footnote">3</a></sup>] [<sup id="fnref:3b"><a href="#fn:3b" rel="footnote">4</a></sup>]</td>
+      <td style="text-align: right">[<sup id="fnref:3a"><a href="#fn:3a" rel="footnote">4</a></sup>] [<sup id="fnref:3b"><a href="#fn:3b" rel="footnote">5</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
@@ -109,25 +111,25 @@
       <td>Null geodesics test</td>
       <td>photon trajectory, spatial deflection</td>
       <td>$\theta = (0.99992\pm 0.00023)\times 1.75’’$, where 1.75 is the theoretical value</td>
-      <td style="text-align: right">Achieved through observing star position, etc [<sup id="fnref:4"><a href="#fn:4" rel="footnote">5</a></sup>]</td>
+      <td style="text-align: right">Achieved through observing star position, etc [<sup id="fnref:4"><a href="#fn:4" rel="footnote">6</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
       <td>Shapiro time-delay effect</td>
       <td>$\Delta t = (1.00001\pm 0.00001)\Delta t_{GR}$</td>
-      <td style="text-align: right">[<sup id="fnref:5a"><a href="#fn:5a" rel="footnote">6</a></sup>] [<sup id="fnref:5b"><a href="#fn:5b" rel="footnote">7</a></sup>]</td>
+      <td style="text-align: right">[<sup id="fnref:5a"><a href="#fn:5a" rel="footnote">7</a></sup>] [<sup id="fnref:5b"><a href="#fn:5b" rel="footnote">8</a></sup>]</td>
     </tr>
     <tr>
       <td>Time like geodesics</td>
       <td>Anomalous perihelion precession</td>
       <td> </td>
-      <td style="text-align: right">Just use the PPN formalism   [<sup id="fnref:6a"><a href="#fn:6a" rel="footnote">8</a></sup>] [<sup id="fnref:6b"><a href="#fn:6b" rel="footnote">9</a></sup>] [<sup id="fnref:6c"><a href="#fn:6c" rel="footnote">10</a></sup>]</td>
+      <td style="text-align: right">Just use the PPN formalism   [<sup id="fnref:6a"><a href="#fn:6a" rel="footnote">9</a></sup>] [<sup id="fnref:6b"><a href="#fn:6b" rel="footnote">10</a></sup>] [<sup id="fnref:6c"><a href="#fn:6c" rel="footnote">11</a></sup>]</td>
     </tr>
     <tr>
       <td> </td>
       <td>Nordtvedt effect</td>
-      <td> </td>
-      <td style="text-align: right"> </td>
+      <td>$\eta = (-1.0 \pm 1.4) \times 10^{-*13}$</td>
+      <td style="text-align: right">[<sup id="fnref:7a"><a href="#fn:7a" rel="footnote">12</a></sup>] [<sup id="fnref:7b"><a href="#fn:7b" rel="footnote">13</a></sup>]</td>
     </tr>
   </tbody>
 </table>
@@ -138,6 +140,9 @@
   <ol>
     <li id="fn:1b">
       <p><strong>Eotvos experiment</strong>: using torsion balance to test the equality of gravitational mass and inertial mass. Wikipedia has a photo of how this works. <a href="#fnref:1b" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:1c">
+      <p>$\eta=2\frac{ABS(a1-a2)}{ABS(a1+a2)}$. $a1$ and $a2$ are the accelerations of the two bodies in Eotvos torsion balance. Thus $\eta$ is the accleration difference of the two objects.<a href="#fnref:1c" rel="reference">&#8617;</a></p>
     </li>
     <li id="fn:2">
 
@@ -166,6 +171,13 @@
     </li>
     <li id="fn:6c">
       <p><strong>Anomalous precession</strong>:<a href="#fnref:6c" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:7a">
+      <p><strong>K. Nordtvedt</strong>. Equivalence Principle for Massive Bodies. I. Phenomenology. Physical Review, 169:1014–1016, May 1968.   ;  <strong>J. G. Williams, S. G. Turyshev, and D. H. Boggs</strong>. Progress in Lunar Laser Ranging Tests of Relativistic Gravity. Physical Review Letters, 93(26):261101, Dec. 2004, arXiv:gr-qc/0411113.<a href="#fnref:7a" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:7b">
+
+      <p><a href="#fnref:7b" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
