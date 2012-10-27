@@ -1,3 +1,13 @@
+## What're these?
+
+These are the source files of my static blog focusing on the testing of gravity theories. Choose gh-pages branch to see the html source of this site.
+
+My site use octopress as the frame work. Many thanks to the  authors of octopress.
+
+
+
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

@@ -5,6 +5,7 @@ date: 2012-10-02 03:26
 comments: true
 categories: Gravity Theories 
 styles: [data-table]
+toc: true
 ---
 
 This post lists the experiments which are used to test gravity theories carried out on the earth.
@@ -12,8 +13,39 @@ This post lists the experiments which are used to test gravity theories carried 
 <!-- more -->
 
 
+The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.
+
+
+* **Physical Fundations**:
+
+| Theory |  Mach | WEP  |  EEP  |  SEP | Notes  |
+|:------ |:-----:|:------:|:------:|:------:|:------| 
+| GR | Partial |  Y |  Y |  Y |   |
+
+
+
+* **Mathematical Description**:
+
+| Theory |Topoplogy | Manifold | Connection | Metric | 
+|:----|:------:|:------:|:-----:|:------:|
+|  GR |     |          |        |       |
+
+
+
+* **Theoretical Implifications**:
+
+| Theory | Gravitational Waves | Newtonian Limit |  GR Limit | Notes | 
+|:----|:------:|:------:|:-----:|:------:|
+| GR |    |   |
+
+
+Most items in mathematics are the same in different theories.
+
+
+
 
 ## Eotvos Torsion Balance
+-----
 
 ### How
 
@@ -21,13 +53,13 @@ This post lists the experiments which are used to test gravity theories carried 
 * Gravitational mass $m_G$
 
 In Newtonian system, the acceleration of an object will be
-\[ \vec a \prop \frac{\vec F}{m_I} \]
+\\[ \vec a \propto \frac{\vec F}{m_I} \\]
 
 In a static and uniform gravitation field, the gravity force is
-\[ \vec G = - g m_G \hat r \]
+\\[ \vec G = - g m_G \hat r \\]
 
 Thus the acceleration in this case should be
-\[ \vec a \prop -\hat r g \frac{m_G}{m_I} \]
+\\[ \vec a \propto -\hat r g \frac{m_G}{m_I} \\]
 
 When $m_G/m_I$ is constant, the falling accerelation are the same for different objects with same mass. However, if $m_G/m_I$ is not a constant, say $m_G\ne m_I$, different objects would fall at different acceleration.
 
@@ -111,3 +143,76 @@ Test of GR:
 [^8a]: 
 
 [^8b]: There is a Lense Thirring effect here. GPB has done this.
+
+
+
+
+
+
+
+
+
+------
+
+A example of a complex table
+
+
+<table border="1">
+
+<tr>
+<td rowspan="2">Theory</td>
+<td colspan="4">Physical Fundations</td>
+<td colspan="5">Mathematics</td>
+<td>Notes</td>
+</tr>
+
+<!-- Second row -->
+
+<tr>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td></td>
+</tr>
+
+<!-- Second row -->
+
+<tr>
+<td>GR</td>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td></td>
+</tr>
+
+
+<!-- Third row -->
+
+<tr>
+<td>GR</td>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td></td>
+</tr>
+
+
+</table>

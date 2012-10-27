@@ -24,6 +24,8 @@ body > header h1 {
 }
 body > header h2 {
   font-family: $header-subtitle-font-family;
+  border-bottom: solid 2px green;
+  color: green;
 }
 
 body {
@@ -49,9 +51,12 @@ h1 {
 }
 h2, section h1 {
   font-size: 1.5em;
+  color: green;
+  border-bottom: solid 2px green;
 }
 h3, section h2, section section h1 {
   font-size: 1.3em;
+  border-bottom: dashed 1px;
 }
 h4, section h3, section section h2, section section section h1 {
   font-size: 1em;
