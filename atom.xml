@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T15:16:09+08:00</updated>
+  <updated>2012-10-27T15:19:01+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -24,19 +24,10 @@
   
   <entry>
     <title type="html"><![CDATA[Gravity Probing]]></title>
-    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/gravity-probing/"/>
-    <updated>2012-10-02T00:00:00+08:00</updated>
-    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/gravity-probing</id>
-    <content type="html"><![CDATA[<p>x—
-layout: post
-title: “Gravity Probing”
-date: 2012-10-02 03:26
-comments: true
-categories: Gravity Theories 
-styles: [data-table]
-—</p>
-
-<p>This post lists the experiments which are used to test gravity theories carried out on the earth.</p>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theories/gravity-probing/"/>
+    <updated>2012-10-02T03:26:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theories/gravity-probing</id>
+    <content type="html"><![CDATA[<p>This post lists the experiments which are used to test gravity theories carried out on the earth.</p>
 
 <!-- more -->
 
