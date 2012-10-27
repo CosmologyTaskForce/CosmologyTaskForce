@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T15:19:01+08:00</updated>
+  <updated>2012-10-27T15:21:34+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -31,87 +31,18 @@
 
 <!-- more -->
 
-<p>Test tables:</p>
-
-<p>|—————–+————+—————–+—————-|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|—————–|:———–|:—————:|—————:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | <strong>strong</strong>      | baz            |
-| Third line      |quux        | baz             | bar            |
-|—————–+————+—————–+—————-|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|—————–+————+—————–+—————-|
-The above example table is rather time-consuming to create without the help of an ASCII table editor. However, the table syntax is flexible and the above table could also be written like this:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Default aligned</th>
-      <th style="text-align: left">Left aligned</th>
-      <th style="text-align: center">Center aligned</th>
-      <th style="text-align: right">Right aligned</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>First body part</td>
-      <td style="text-align: left">Second cell</td>
-      <td style="text-align: center">Third cell</td>
-      <td style="text-align: right">fourth cell</td>
-    </tr>
-    <tr>
-      <td>Second line</td>
-      <td style="text-align: left">foo</td>
-      <td style="text-align: center"><strong>strong</strong></td>
-      <td style="text-align: right">baz</td>
-    </tr>
-    <tr>
-      <td>Third line</td>
-      <td style="text-align: left">quux</td>
-      <td style="text-align: center">baz</td>
-      <td style="text-align: right">bar</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>Second body</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: right"> </td>
-    </tr>
-    <tr>
-      <td>2 line</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: right"> </td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer row</td>
-      <td style="text-align: left"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: right"> </td>
-    </tr>
-  </tfoot>
-</table>
-
 <p>The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.</p>
 
 <table>
   <thead>
     <tr>
-      <th>Theory</th>
-      <th>Ph-Mach</th>
-      <th>Ph-WEP</th>
-      <th>Ph-EEP</th>
-      <th>Ph-SEP</th>
-      <th>Ma-Set</th>
-      <th>Ma-Topoplogy</th>
+      <th style="text-align: left">Theory</th>
+      <th style="text-align: center">Ph-Mach</th>
+      <th style="text-align: center">Ph-WEP</th>
+      <th style="text-align: center">Ph-EEP</th>
+      <th style="text-align: center">Ph-SEP</th>
+      <th style="text-align: center">Ma-Set</th>
+      <th style="text-align: center">Ma-Topoplogy</th>
       <th style="text-align: right">Ma-Manifold</th>
       <th>Ma-Connection</th>
       <th>Ma</th>
@@ -120,13 +51,13 @@ The above example table is rather time-consuming to create without the help of a
   </thead>
   <tbody>
     <tr>
-      <td>GR</td>
-      <td>Partial</td>
-      <td>Y</td>
-      <td>Y</td>
-      <td>Y</td>
-      <td> </td>
-      <td>Riemann</td>
+      <td style="text-align: left">GR</td>
+      <td style="text-align: center">Partial</td>
+      <td style="text-align: center">Y</td>
+      <td style="text-align: center">Y</td>
+      <td style="text-align: center">Y</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">Riemann</td>
       <td style="text-align: right"> </td>
       <td> </td>
       <td> </td>
