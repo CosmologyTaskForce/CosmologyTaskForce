@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T16:01:19+08:00</updated>
+  <updated>2012-10-27T16:02:29+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -92,17 +92,10 @@
 
 
 </table>
+<p>|:—— |:—–:|:——:|:——:|:—–:|:——:|:——:|:——| 
+| GR | Partial |  Y |  Y |  Y | |  |  |  Riemann  |   |</p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>b</td>
-    </tr>
-  </tbody>
-</table>
+<p>adfasdfasdf</p>
 
 <table>
   <thead>
