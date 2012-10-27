@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-28T06:01:12+08:00</updated>
+  <updated>2012-10-28T06:03:51+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -240,69 +240,6 @@
 
 <h2 id="footnote">Footnote</h2>
 
-<hr />
-
-<p>A example of a complex table</p>
-
-<table border="1">
-
-<tr>
-<td rowspan="2">Theory</td>
-<td colspan="4">Physical Fundations</td>
-<td colspan="5">Mathematics</td>
-<td>Notes</td>
-</tr>
-
-<!-- Second row -->
-
-<tr>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td />
-</tr>
-
-<!-- Second row -->
-
-<tr>
-<td>GR</td>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td />
-</tr>
-
-
-<!-- Third row -->
-
-<tr>
-<td>GR</td>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td />
-</tr>
-
-
-</table>
 <div class="footnotes">
   <ol>
     <li id="fn:1b">
