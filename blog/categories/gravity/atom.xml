@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-28T05:17:24+08:00</updated>
+  <updated>2012-10-28T05:21:03+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -105,9 +105,11 @@
 
 <hr />
 
-<h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
+<h2 id="experiments">Experiments</h2>
 
-<h3 id="how">How</h3>
+<h3 id="eotvos-torsion-balance">Eotvos Torsion Balance</h3>
+
+<h4 id="how">How</h4>
 
 <ul>
   <li>Inertial mass $m_I$</li>
@@ -127,11 +129,11 @@
 
 <p>Now if we put two ball with different mass on the Eotvos torsion balance, the balance would rotate and we can measure it.</p>
 
-<h3 id="results">Results</h3>
+<h4 id="results">Results</h4>
 
 <p>Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.</p>
 
-<h2 id="hughes-drevershiy-experiment-etc">Hughes-Drevershiy Experiment, etc</h2>
+<h3 id="hughes-drevershiy-experiment-etc">Hughes-Drevershiy Experiment, etc</h3>
 
 <p>Anisotropy of gravitation/electromagnetism is not proved in our galaxy.</p>
 
