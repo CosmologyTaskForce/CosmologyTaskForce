@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T19:29:20+08:00</updated>
+  <updated>2012-10-27T19:30:27+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -112,8 +112,9 @@
 
 <p>Most items in mathematics are the same in different theories.</p>
 
-<h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
 <hr />
+
+<h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
 
 <h3 id="how">How</h3>
 
