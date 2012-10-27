@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T15:27:14+08:00</updated>
+  <updated>2012-10-27T15:41:19+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -24,6 +24,66 @@
 
 <p>The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.</p>
 
+<table border="1">
+
+<tr>
+<td rowspan="2">Theory</td>
+<td colspan="4">Physical Fundations</td>
+<td colspan="5">Mathematics</td>
+<td>Notes</td>
+</tr>
+
+<!-- Second row -->
+
+<tr>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td />
+</tr>
+
+<!-- Second row -->
+
+<tr>
+<td>GR</td>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td />
+</tr>
+
+
+<!-- Third row -->
+
+<tr>
+<td>GR</td>
+<td>WEP</td>
+<td>EEP</td>
+<td>SEP</td>
+<td>Mach</td>
+<td>Set</td>
+<td>Topological</td>
+<td>Manifold</td>
+<td>Connection</td>
+<td>Metric</td>
+<td />
+</tr>
+
+
+</table>
+
 <table>
   <thead>
     <tr>
@@ -34,7 +94,7 @@
       <th style="text-align: center">Ph-SEP</th>
       <th style="text-align: center">Ma-Set</th>
       <th style="text-align: center">Ma-Topoplogy</th>
-      <th style="text-align: right">Ma-Manifold</th>
+      <th style="text-align: left">Ma-Manifold</th>
       <th>Ma-Connection</th>
       <th>Ma</th>
       <th>Notes</th>
@@ -49,7 +109,7 @@
       <td style="text-align: center">Y</td>
       <td style="text-align: center"> </td>
       <td style="text-align: center"> </td>
-      <td style="text-align: right"> </td>
+      <td style="text-align: left"> </td>
       <td>Riemann</td>
       <td> </td>
       <td> </td>
