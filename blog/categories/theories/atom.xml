@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-28T05:24:46+08:00</updated>
+  <updated>2012-10-28T06:01:12+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -25,7 +25,7 @@
 <p>The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.</p>
 
 <ul>
-  <li><strong>Physical Fundations</strong>:</li>
+  <li><strong>Physical Fundations: Hyperthesis</strong>:</li>
 </ul>
 
 <table>
@@ -85,8 +85,8 @@
     <tr>
       <th style="text-align: left">Theory</th>
       <th style="text-align: center">Gravitational Waves</th>
-      <th style="text-align: center">Newtonian Limit</th>
-      <th style="text-align: center">GR Limit</th>
+      <th style="text-align: center">Exactly Newtonian Limit</th>
+      <th style="text-align: center">Exactly GR Limit</th>
       <th style="text-align: center">Notes</th>
     </tr>
   </thead>
