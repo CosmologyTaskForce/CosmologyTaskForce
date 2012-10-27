@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T08:23:34+08:00</updated>
+  <updated>2012-10-27T11:00:08+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -21,6 +21,35 @@
     <content type="html"><![CDATA[<p>This post lists the experiments which are used to test gravity theories carried out on the earth.</p>
 
 <!-- more -->
+
+<p>The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Theory</th>
+      <th>Mach</th>
+      <th>WEP</th>
+      <th>EEP</th>
+      <th>SEP</th>
+      <th>Topoplogy</th>
+      <th>Manifold</th>
+      <th style="text-align: right">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GR</td>
+      <td>Partial</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td>Y</td>
+      <td> </td>
+      <td>Riemann</td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
 
