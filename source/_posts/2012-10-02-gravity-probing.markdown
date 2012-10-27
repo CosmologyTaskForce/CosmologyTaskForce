@@ -42,10 +42,11 @@ The test of gravity theories can be viewed as test of the fundations of gravity 
 Most items in mathematics are the same in different theories.
 
 
+-----
 
 
 ## Eotvos Torsion Balance
------
+
 
 ### How
 
