@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T17:37:41+08:00</updated>
+  <updated>2012-10-27T17:40:03+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -101,11 +101,12 @@
   </tbody>
 </table>
 
-<hr />
+<p>Most items in mathematics are the same in different theories.</p>
 
 <h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
 <hr />
-<p>### How</p>
+
+<h3 id="how">How</h3>
 
 <ul>
   <li>Inertial mass $m_I$</li>
