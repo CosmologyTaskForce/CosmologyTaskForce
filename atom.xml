@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T16:20:16+08:00</updated>
+  <updated>2012-10-27T16:25:06+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -33,6 +33,8 @@
 
 <p>The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.</p>
 
+<p>Physical Fundations:</p>
+
 <table>
   <thead>
     <tr>
@@ -41,10 +43,6 @@
       <th style="text-align: center">WEP</th>
       <th style="text-align: center">EEP</th>
       <th style="text-align: center">SEP</th>
-      <th style="text-align: center">Topoplogy</th>
-      <th style="text-align: center">Manifold</th>
-      <th style="text-align: center">Connection</th>
-      <th style="text-align: center">Metric</th>
       <th style="text-align: left">Notes</th>
     </tr>
   </thead>
@@ -55,11 +53,53 @@
       <td style="text-align: center">Y</td>
       <td style="text-align: center">Y</td>
       <td style="text-align: center">Y</td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center"> </td>
-      <td style="text-align: center">Riemann</td>
-      <td style="text-align: center"> </td>
       <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Mathematical Description:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Theory</th>
+      <th style="text-align: center">Topoplogy</th>
+      <th style="text-align: center">Manifold</th>
+      <th style="text-align: center">Connection</th>
+      <th style="text-align: center">Metric</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">GR</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Theoretical Implifications:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Theory</th>
+      <th style="text-align: center">Gravitational Waves</th>
+      <th style="text-align: center">Newtonian Limit</th>
+      <th style="text-align: center">GR Limit</th>
+      <th style="text-align: center">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">GR</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
     </tr>
   </tbody>
 </table>
