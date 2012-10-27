@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T08:00:48+08:00</updated>
+  <updated>2012-10-27T08:09:11+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -32,7 +32,7 @@
 </ul>
 
 <p>In Newtonian system, the acceleration of an object will be
-[ \vec a \prop \frac{\vec F}{m_I} ]</p>
+\[ \vec a \prop \frac{\vec F}{m_I} \]</p>
 
 <p>In a static and uniform gravitation field, the gravity force is
 [ \vec G = - g m_G \hat r ]</p>
