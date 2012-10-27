@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T17:23:44+08:00</updated>
+  <updated>2012-10-27T17:37:41+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -113,8 +113,8 @@
 <hr />
 
 <h2 id="eotvos-torsion-balance">Eotvos Torsion Balance</h2>
-
-<h3 id="how">How</h3>
+<hr />
+<p>### How</p>
 
 <ul>
   <li>Inertial mass $m_I$</li>
