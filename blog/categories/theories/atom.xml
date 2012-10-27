@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Theories | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theories/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-27T08:20:04+08:00</updated>
+  <updated>2012-10-27T08:23:34+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -32,13 +32,13 @@
 </ul>
 
 <p>In Newtonian system, the acceleration of an object will be
-<script type="math/tex"> \vec a \prop \frac{\vec F}{m_I} </script></p>
+\[ \vec a \propto \frac{\vec F}{m_I} \]</p>
 
 <p>In a static and uniform gravitation field, the gravity force is
 \[ \vec G = - g m_G \hat r \]</p>
 
 <p>Thus the acceleration in this case should be
-<script type="math/tex"> \vec a \prop -\hat r g \frac{m_G}{m_I} </script></p>
+\[ \vec a \propto -\hat r g \frac{m_G}{m_I} \]</p>
 
 <p>When $m_G/m_I$ is constant, the falling accerelation are the same for different objects with same mass. However, if $m_G/m_I$ is not a constant, say $m_G\ne m_I$, different objects would fall at different acceleration.</p>
 
