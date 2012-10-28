@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-29T06:41:51+08:00</updated>
+  <updated>2012-10-29T07:56:12+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -41,6 +41,8 @@
 <h2 id="birkhoffs-theorem">Birkhoff’s Theorem</h2>
 
 <p><strong>All spherically symmetric solutions of Einstein’s equations in vacuum must be static and asymptotically flat, without $\Lambda$</strong></p>
+
+<p>Actually, this can be extended to a $\Lambda$ space only keeping the static result.</p>
 
 <h2 id="no-hair-theorems">No-hair Theorems</h2>
 
