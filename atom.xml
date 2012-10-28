@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-28T15:00:20+08:00</updated>
+  <updated>2012-10-28T17:17:18+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Theorems Regarding Gravity]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/theorems-regarding-gravity/"/>
+    <updated>2012-10-28T16:48:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/theorems-regarding-gravity</id>
+    <content type="html"><![CDATA[<p>In general relavity, many theorems provides deep understanding of gravity.</p>
+
+<!-- more -->
+
+<h2 id="lovelocks-theorem">Lovelock’s Theorem</h2>
+
+<p><strong>The only possible second-order Euler-Lagrange expression obtainable in a four dimensional space from a scalar density of the form $\scr L = \scr L(g_{\mu\nu})$ is</strong></p>
+
+<h2 id="birkhoffs-theorem">Birkhoff’s Theorem</h2>
+
+<h2 id="no-hair-theorems">No-hair Theorems</h2>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Modified Gravity]]></title>
