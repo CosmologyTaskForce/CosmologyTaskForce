@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-28T08:59:46+08:00</updated>
+  <updated>2012-10-28T14:56:50+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -15,10 +15,21 @@
   
   <entry>
     <title type="html"><![CDATA[Modified Gravity]]></title>
-    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/modified-gravity/"/>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theory/modified-gravity/"/>
     <updated>2012-10-25T13:41:00+08:00</updated>
-    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/modified-gravity</id>
-    <content type="html"><![CDATA[
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theory/modified-gravity</id>
+    <content type="html"><![CDATA[<h2 id="fr-gravity">f(R) gravity</h2>
+
+<p>f(R) gravity background equations and perturbation equations:</p>
+
+<p><a href="https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb">https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb</a></p>
+
+<h2 id="disformal-dark-enrgy">Disformal dark enrgy</h2>
+
+<p>background equations and perturbation equations</p>
+
+<p><a href="https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb">https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb</a></p>
+
 ]]></content>
   </entry>
   

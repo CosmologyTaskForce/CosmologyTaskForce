@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Theory | Cosmology Taskforce]]></title>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/theory/atom.xml" rel="self"/>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
+  <updated>2012-10-28T14:56:50+08:00</updated>
+  <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
+  <author>
+    <name><![CDATA[Marvin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Modified Gravity]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theory/modified-gravity/"/>
+    <updated>2012-10-25T13:41:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/Theory/modified-gravity</id>
+    <content type="html"><![CDATA[<h2 id="fr-gravity">f(R) gravity</h2>
+
+<p>f(R) gravity background equations and perturbation equations:</p>
+
+<p><a href="https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb">https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb</a></p>
+
+<h2 id="disformal-dark-enrgy">Disformal dark enrgy</h2>
+
+<p>background equations and perturbation equations</p>
+
+<p><a href="https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb">https://raw.github.com/CosmologyTaskForce/ModiGraviDoc/master/ModifiedGravityDoc.nb</a></p>
+
+]]></content>
+  </entry>
+  
+</feed>
