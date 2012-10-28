@@ -4,8 +4,8 @@ title: "Gravity Probing"
 date: 2012-10-02 03:26
 comments: true
 categories: Gravity Theories 
-styles: [data-table]
 toc: true
+styles: [data-table]
 ---
 
 This post lists the experiments which are used to test gravity theories carried out on the earth.
@@ -16,11 +16,11 @@ This post lists the experiments which are used to test gravity theories carried 
 The test of gravity theories can be viewed as test of the fundations of gravity theories and the the theories themselves, say test of equivalent principle and general relativity or f(R) gravity theory. Thus we should break down general relativity theory into several stages. Here, we use the following table to do so.
 
 
-* **Physical Fundations**:
+* **Physical Fundations: Hyperthesis**:
 
-| Theory |  Mach | WEP  |  EEP  |  SEP | Notes  |
+| Theory |  Mach | WEP  |  EEP  |  SEP | GC | Notes  |
 |:------ |:-----:|:------:|:------:|:------:|:------| 
-| GR | Partial |  Y |  Y |  Y |   |
+| GR | Partial |  Y |  Y |  Y | Y  |   |
 
 
 
@@ -28,27 +28,34 @@ The test of gravity theories can be viewed as test of the fundations of gravity 
 
 | Theory |Topoplogy | Manifold | Connection | Metric | 
 |:----|:------:|:------:|:-----:|:------:|
-|  GR |     |          |        |       |
+|  GR |     |          |   No torsion   |  Non-metricity tensor vanishes  |
 
 
 
 * **Theoretical Implifications**:
 
-| Theory | Gravitational Waves | Newtonian Limit |  GR Limit | Notes | 
+| Theory | Gravitational Waves | Newtonian Limit | GR Limit | Notes | 
 |:----|:------:|:------:|:-----:|:------:|
 | GR |    |   |
 
 
 Most items in mathematics are the same in different theories.
 
+## Hyperthesis
 
------
+*  **WEP**: weak equivalence principle
+*  **EEP**: Einstein equivalence principle
+*  **SEP**: strong equivalence principle
+*  **GC**, General Covariance
+*  **Mach Principle**: gravity coupled to matter
 
 
-## Eotvos Torsion Balance
+## Experiments
+
+### Eotvos Torsion Balance
 
 
-### How
+#### How
 
 * Inertial mass $m_I$
 * Gravitational mass $m_G$
@@ -66,13 +73,13 @@ When $m_G/m_I$ is constant, the falling accerelation are the same for different 
 
 Now if we put two ball with different mass on the Eotvos torsion balance, the balance would rotate and we can measure it.
 
-### Results
+#### Results
 
 Detection of $R^k_{0l0}=(1/c^2)\partial^2\Phi/\partial x^k\partial x^l \sim 10^{-32} \text{cm}^{-2}$.
 
 
 
-## Hughes-Drevershiy Experiment, etc
+### Hughes-Drevershiy Experiment, etc
 
 Anisotropy of gravitation/electromagnetism is not proved in our galaxy.
 
@@ -103,7 +110,10 @@ Test of GR:
 | Time like geodesics |  Anomalous perihelion precession  |     |    Just use the PPN formalism   [[^6a]] [[^6b]] [[^6c]] |
 |   | Nordtvedt effect |  $\eta = (-1.0 \pm 1.4) \times 10^{-*13}$ | [[^7a]] [[^7b]]  |
 |    | Spinning objects obiting  |                |  [[^8a]] [[^8b]]        |
-|    |                    |                 |                      |
+| Small-range   |  Potential probing |         |    [[^9a]] [[^9b]]           |
+|  Radiation  |   Speed of gravitational waves   |                 |                      |
+|         |  Polarity of gravitational radiation |        |             |
+|        |   Dynamics of source objects     |                   |                 |
 
 
 
@@ -145,75 +155,6 @@ Test of GR:
 
 [^8b]: There is a Lense Thirring effect here. GPB has done this.
 
+[^9a]: GR can be reduced to Newtonian potential at small range.
 
-
-
-
-
-
-
-
-------
-
-A example of a complex table
-
-
-<table border="1">
-
-<tr>
-<td rowspan="2">Theory</td>
-<td colspan="4">Physical Fundations</td>
-<td colspan="5">Mathematics</td>
-<td>Notes</td>
-</tr>
-
-<!-- Second row -->
-
-<tr>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td></td>
-</tr>
-
-<!-- Second row -->
-
-<tr>
-<td>GR</td>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td></td>
-</tr>
-
-
-<!-- Third row -->
-
-<tr>
-<td>GR</td>
-<td>WEP</td>
-<td>EEP</td>
-<td>SEP</td>
-<td>Mach</td>
-<td>Set</td>
-<td>Topological</td>
-<td>Manifold</td>
-<td>Connection</td>
-<td>Metric</td>
-<td></td>
-</tr>
-
-
-</table>
+[^9b]: Currently, most of the modification has a Yukawa potential form.

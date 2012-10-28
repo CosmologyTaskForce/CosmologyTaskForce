@@ -56,9 +56,13 @@ h2, section h1 {
 h3, section h2, section section h1 {
   font-size: 1.3em;
   border-bottom: dashed 1px;
+  padding-bottom: 2px;
 }
 h4, section h3, section section h2, section section section h1 {
   font-size: 1em;
+  border-bottom: dotted 1px;
+  color: gray;
+  padding-bottom: 1px;
 }
 h5, section h4, section section h3 {
   font-size: .9em;
