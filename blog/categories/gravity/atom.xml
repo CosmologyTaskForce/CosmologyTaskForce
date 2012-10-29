@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-29T07:56:12+08:00</updated>
+  <updated>2012-10-29T09:08:33+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -42,10 +42,24 @@
 
 <p><strong>All spherically symmetric solutions of Einstein’s equations in vacuum must be static and asymptotically flat, without $\Lambda$</strong></p>
 
-<p>Actually, this can be extended to a $\Lambda$ space only keeping the static result.</p>
+<p>Actually, this can be extended to a $\Lambda$ space only keeping the static result. </p>
 
 <h2 id="no-hair-theorems">No-hair Theorems</h2>
 
+<p><strong>The generic final state of gravitational collapse is a Kerr-Newman black hole, fully specified by its mass, angular momentum and charge</strong></p>
+
+<p>Also, “in the context of General Relativity with a cosmological constant all expanding universe solutions should evolve towards de Sitter space.”[<sup id="fnref:no-hair_theorem_1"><a href="#fn:no-hair_theorem_1" rel="footnote">1</a></sup>] This is only valid in some situation.</p>
+
+<h1 id="footnote">Footnote</h1>
+
+<p>positive cosmological constant. Phys. Rev. D, 28(8):2118–2120, Oct 1983.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:no-hair_theorem_1">
+      <p><strong>R. M. Wald</strong>. Asymptotic behavior of homogeneous cosmological models in the presence of a<a href="#fnref:no-hair_theorem_1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
