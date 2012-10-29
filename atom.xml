@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-29T10:58:45+08:00</updated>
+  <updated>2012-10-29T15:53:54+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -31,6 +31,20 @@
 <script type="math/tex; mode=display">\mathrm ds^2 = - \gamma(r,t)c^2\mathrm dt^2 + \beta(r,t)c\mathrm dr\mathrm dt + \alpha(r,t)[\mathrm dr^2 + r^2 (\mathrm d\theta^2 + \sin^2\theta \mathrm d\phi^2)] </script>
 
 <p>With a transformation $\alpha(r,t)r^2 = r’^2$, </p>
+
+<script type="math/tex; mode=display">\mathrm ds^2 = - \gamma'(r',t)c^2\mathrm dt^2 + \beta'(r',t)c\mathrm dr\mathrm dt + \alpha(r,t)[\mathrm dr^2 + r^2 (\mathrm d\theta^2 + \sin^2\theta \mathrm d\phi^2)] </script>
+
+<p>Then compose the integral multiplier</p>
+
+<script type="math/tex; mode=display">c\mathrm dt'= \eta(r',t) [ - \gamma'(r',t) c \mathrm dt + \frac{1}{2} \beta'(r',t)\mathrm dr'] </script>
+
+<p>And finally,</p>
+
+<script type="math/tex; mode=display">\mathrm ds^2 = -\eta^{-2}(r',t) \gamma'^{-1}(r',t)c^2\mathrm dt'^2 + [\alpha'(r',t) + \frac{\beta'^2(r',t)}{4r'} ]\mathrm dr'^2 + r'^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2) </script>
+
+<p>In general</p>
+
+<script type="math/tex; mode=display">\mathrm ds^2 = -b(r,t)c^2\mathrm dt^2 + a(r,t)\mathrm dr^2 + r^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2)</script>
 
 ]]></content>
   </entry>
