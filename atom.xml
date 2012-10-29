@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-29T10:06:16+08:00</updated>
+  <updated>2012-10-29T10:58:45+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -21,6 +21,16 @@
     <content type="html"><![CDATA[<p>This post is aimed to make clear what frame are we in.</p>
 
 <!-- more -->
+
+<h2 id="frame-and-coordinates">Frame and Coordinates</h2>
+
+<p>In general relativity, we often transform coordinates. Here is an example.</p>
+
+<p><strong>The general form of metric with spherical space component is</strong></p>
+
+<script type="math/tex; mode=display">\mathrm ds^2 = - \gamma(r,t)c^2\mathrm dt^2 + \beta(r,t)c\mathrm dr\mathrm dt + \alpha(r,t)[\mathrm dr^2 + r^2 (\mathrm d\theta^2 + \sin^2\theta \mathrm d\phi^2)] </script>
+
+<p>With a transformation $\alpha(r,t)r^2 = r’^2$, </p>
 
 ]]></content>
   </entry>
