@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-30T15:09:27+08:00</updated>
+  <updated>2012-10-30T18:12:25+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -18,11 +18,13 @@
     <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/what-frame-are-we-in/"/>
     <updated>2012-10-29T09:58:00+08:00</updated>
     <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/what-frame-are-we-in</id>
-    <content type="html"><![CDATA[<p>This post is aimed to make clear what frame are we in.</p>
+    <content type="html"><![CDATA[<p>Synge once said, use space and time, and define them.</p>
+
+<p>This post is aimed to make clear what frame are we in. </p>
 
 <!-- more -->
 
-<h2 id="frame-and-coordinates">Frame and Coordinates</h2>
+<h2 id="intro">Intro</h2>
 
 <p>In general relativity, we often transform coordinates. Here is an example.</p>
 
@@ -48,7 +50,11 @@
 \mathrm ds^2 = -b(r,t)c^2\mathrm dt^2 + a(r,t)\mathrm dr^2 + r^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2) \label{MetricForm2}
 \end{equation}</p>
 
-<p>Then what? The two forms of metric demonstrate different properties. Take Birkhoff theorem as an example. When we start the form \ref{MetricForm1} and \ref{MetricForm2} </p>
+<p>Then what? The two forms of metric demonstrate different properties. Take Birkhoff theorem as an example. The results could be very different startting from the form (\ref{MetricForm1}) and (\ref{MetricForm2}).</p>
+
+<p>It is obviously very important to show what the coordinate transformation means and what frame are the observers in indicated by the coordinates.</p>
+
+<h2 id="frame-and-coordinates">Frame and Coordinates</h2>
 
 ]]></content>
   </entry>
