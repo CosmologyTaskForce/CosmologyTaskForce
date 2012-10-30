@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-10-30T15:04:43+08:00</updated>
+  <updated>2012-10-30T15:07:37+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -28,7 +28,7 @@
 
 <p><strong>The general form of metric with spherical space component is</strong></p>
 
-<script type="math/tex; mode=display">\mathrm ds^2 = - \gamma(r,t)c^2\mathrm dt^2 + \beta(r,t)c\mathrm dr\mathrm dt + \alpha(r,t)[\mathrm dr^2 + r^2 (\mathrm d\theta^2 + \sin^2\theta \mathrm d\phi^2)] </script>
+<script type="math/tex; mode=display">\mathrm ds^2 = - \gamma(r,t)c^2\mathrm dt^2 + \beta(r,t)c\mathrm dr\mathrm dt + \alpha(r,t)[\mathrm dr^2 + r^2 (\mathrm d\theta^2 + \sin^2\theta \mathrm d\phi^2)]\label{MetricForm1} </script>
 
 <p>With a transformation $\alpha(r,t)r^2 = r’^2$, </p>
 
@@ -44,13 +44,11 @@
 
 <p>In general</p>
 
-<script type="math/tex; mode=display">\mathrm ds^2 = -b(r,t)c^2\mathrm dt^2 + a(r,t)\mathrm dr^2 + r^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2)\label{MetricForm2}</script>
-
 <p>\begin{equation}
-\mathrm ds^2 = -b(r,t)c^2\mathrm dt^2 + a(r,t)\mathrm dr^2 + r^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2) \label{MetricForm3} 
+\mathrm ds^2 = -b(r,t)c^2\mathrm dt^2 + a(r,t)\mathrm dr^2 + r^2(\mathrm d\theta^2 + \sin^2\theta\mathrm d\phi^2) \label{MetricForm2}
 \end{equation}</p>
 
-<p>Then what? The two forms of metric demonstrate different properties. Take Birkhoff theorem as an example. When we start from the $\ref{MetricForm2}$, \ref{MetricForm2}, \ref{MetricForm3}, $\ref{MetricForm3}$</p>
+<p>Then what? The two forms of metric demonstrate different properties. Take Birkhoff theorem as an example. When we start the form \ref{MetricForm1} and \ref{MetricForm2} </p>
 
 ]]></content>
   </entry>
