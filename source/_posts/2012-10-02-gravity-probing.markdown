@@ -85,6 +85,17 @@ Anisotropy of gravitation/electromagnetism is not proved in our galaxy.
 
 
 
+### Radio Signal
+
+Similar to Eddington and Dyson's bending light observation, radio signals serve as a more precise experiment to test Einstein's theory. And these experiments are against scalar tensor theories because scalar tensor theories give a smaller bending angle (1.66 second of arc less than the observations).
+
+
+
+
+
+
+
+
 
 ## Summary Table
 
