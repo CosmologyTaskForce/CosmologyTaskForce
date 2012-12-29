@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-12-29T16:30:08+08:00</updated>
+  <updated>2012-12-29T21:08:11+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -20,7 +20,9 @@
     <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/gauges-in-gravity-theory</id>
     <content type="html"><![CDATA[<!--more-->
 
-<h1 id="einsteins-general-relativity">Einstein’s General Relativity</h1>
+<h1 id="field-equation-of-einsteins-general-relativity">Field Equation of Einstein’s General Relativity</h1>
+
+<p>Gauge freedom is the freedom of choosing a coordinate system. Fixing a gauge means choosing a particular coordinate system.</p>
 
 <h1 id="perturbation-theory-of-general-relativity">Perturbation Theory of General Relativity</h1>
 
