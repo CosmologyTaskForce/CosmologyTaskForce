@@ -4,7 +4,7 @@
   <title><![CDATA[Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-12-29T16:28:32+08:00</updated>
+  <updated>2012-12-29T16:29:12+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -42,7 +42,7 @@
 \tilde T^j _ {\phantom{j}0 } = -(\rho + p)v Y^{j}
 \end{eqnarray}</p>
 
-<p>For a infinitesimal gauge transformation along some vector (X=T\partial_t + L^i \partial_i), gauge variables are</p>
+<p>For a infinitesimal gauge transformation along some vector (X=T\partial _ t + L^i \partial _ i), gauge variables are</p>
 
 <table>
   <thead>
