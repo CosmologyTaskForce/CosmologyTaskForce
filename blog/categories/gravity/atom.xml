@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-12-29T16:24:03+08:00</updated>
+  <updated>2012-12-29T16:25:56+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -29,18 +29,18 @@
 <p>Line element</p>
 
 <p>\begin{eqnarray}
-\tilde g<em>{00} &amp;=&amp; -a^2(1+2 A Y) <br />
-\tilde g</em>{0j} &amp;=&amp; -a^2 B Y_j <br />
-\tilde g<em>{ij} &amp;=&amp; a^2(\gamma</em>{ij} +2 H_L Y \gamma<em>{ij} +2 H_T Y</em>{ij} )
+\tilde g _ {00} &amp;=&amp; -a^2(1+2 A Y) <br />
+\tilde g _ {0j} &amp;=&amp; -a^2 B Y _ j <br />
+\tilde g _ {ij} &amp;=&amp; a^2(\gamma _ {ij} +2 H _ L Y \gamma _ {ij} +2 H _ T Y _ {ij} )
 \end{eqnarray}</p>
 
 <p>Energy momentum tensor is</p>
 
-<p>[
-\tilde T^0<em>{\phantom{0}0} = -\rho (1+\delta Y) <br />
-\tilde T^0</em>{\phantom{0} j} = (\rho + p)(v - B) Y <br />
-\tilde T^j_{\phantom{j}0 } = -(\rho + p)v Y^{j}
-]</p>
+<p>\begin{eqnarray}
+\tilde T^0 _ {\phantom{0}0} = -\rho (1+\delta Y) <br />
+\tilde T^0 _ {\phantom{0} j} = (\rho + p)(v - B) Y <br />
+\tilde T^j _ {\phantom{j}0 } = -(\rho + p)v Y^{j}
+\end{eqnarray}</p>
 
 <p>For a infinitesimal gauge transformation along some vector (X=T\partial_t + L^i \partial_i), gauge variables are</p>
 
