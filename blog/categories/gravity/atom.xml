@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-12-29T16:27:42+08:00</updated>
+  <updated>2012-12-29T16:28:32+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -37,8 +37,8 @@
 <p>Energy momentum tensor is</p>
 
 <p>\begin{eqnarray}
-\tilde T^0 _ {\phantom{0}0} = -\rho (1+\delta Y) <br />
-\tilde T^0 _ {\phantom{0} j} = (\rho + p)(v - B) Y <br />
+\tilde T^0 _ {\phantom{0}0} = -\rho (1+\delta Y) \newline
+\tilde T^0 _ {\phantom{0} j} = (\rho + p)(v - B) Y \newline
 \tilde T^j _ {\phantom{j}0 } = -(\rho + p)v Y^{j}
 \end{eqnarray}</p>
 
