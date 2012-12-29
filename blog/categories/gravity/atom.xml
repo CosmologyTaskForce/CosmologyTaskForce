@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Gravity | Cosmology Taskforce]]></title>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/categories/gravity/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
-  <updated>2012-12-29T04:14:56+08:00</updated>
+  <updated>2012-12-29T16:20:40+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
   <author>
     <name><![CDATA[Marvin]]></name>
@@ -18,21 +18,25 @@
     <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/gauges-in-gravity-theory/"/>
     <updated>2012-12-29T03:53:00+08:00</updated>
     <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/Gravity/gauges-in-gravity-theory</id>
-    <content type="html"><![CDATA[<h1 id="einsteins-general-relativity">Einstein’s General Relativity</h1>
+    <content type="html"><![CDATA[<!--more-->
+
+<h1 id="einsteins-general-relativity">Einstein’s General Relativity</h1>
 
 <h1 id="perturbation-theory-of-general-relativity">Perturbation Theory of General Relativity</h1>
 
 <p>Gauge tranformation is Lie derivative along some arbitary vector here.</p>
 
-<p>Line element
-\begin{eqnarray}
+<p>Line element</p>
+
+<p>\begin{eqnarray}
 \tilde g<em>{00} &amp;=&amp; -a^2(1+2 A Y) <br />
 \tilde g</em>{0j} &amp;=&amp; -a^2 B Y_j <br />
 \tilde g<em>{ij} &amp;=&amp; a^2(\gamma</em>{ij} +2 H_L Y \gamma<em>{ij} +2 H_T Y</em>{ij} )
 \end{eqnarray}</p>
 
-<p>Energy momentum tensor is
-\begin{eqnarray}
+<p>Energy momentum tensor is</p>
+
+<p>\begin{eqnarray}
 \tilde T^0<em>{\phantom{0}0} &amp;=&amp; -\rho (1+\delta Y) <br />
 \tilde T^0</em>{\phantom{0} j} &amp;=&amp; (\rho + p)(v - B) Y <br />
 \tilde T^j_{\phantom{j}0 } &amp;=&amp; -(\rho + p)v Y^{j}
